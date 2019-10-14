@@ -1,0 +1,78 @@
+Make a Sandwich
+
+1 Gather ingredients
+  1.1 Walk to fridge
+  1.2 Open fridge
+  1.3 Get ingredients from fridge
+    1.3.1 Bread
+    1.3.2 Sliced turkey
+    1.3.3 Sliced cheese
+    1.3.4 Mayonnaise
+    1.3.5 Mustard
+    1.3.6 Banana peppers
+    1.3.7 Spinach
+    1.3.8 Tomato
+  1.4 Place all ingredients on counter
+2 Prepare ingredients
+  2.1 Prepare tomato
+    2.1.1 Pick up knife
+    2.1.2 Slice tomato
+    2.1.3 Discard stem
+  2.2 Prepare bread
+    2.2.1 Open bread package
+    2.2.2 Remove two slices of bread
+    2.2.3 Close bread package
+  2.3 Prepare sliced turkey
+    2.3.1 Open turkey package
+    2.3.2 Remove 3 slices of turkey
+    2.3.3 Close turkey package
+  2.4 Prepare sliced cheese
+    2.4.1 Open cheese package
+    2.4.2 Remove 2 slices of cheese
+    2.4.3 Close cheese package
+  2.5 Prepare spinach
+    2.5.1 Open spinach bag
+    2.5.2 Remove small handful of spinach from bag
+    2.5.3 Rinse off spinach in sink
+    2.5.4 Shake spinach to dry
+    2.5.5 Roll top of spinach bag to close
+    2.5.6 Secure top of bag with clip
+  2.6 Prepare banana peppers
+    2.6.1 Twist lid of banana pepper jar to the left
+    2.6.2 Remove lid
+    2.6.3 Remove 5 banana pepper rings from jar
+    2.6.4 Place lid on top of jar
+    2.6.5 Twist lid to the right to secure
+3 Prepare tools
+  3.1 Get plate
+    3.1.1 Open cabinet
+    3.1.2 Pick up plate
+    3.1.3 Place plate on counter
+    3.1.4 Close cabinet
+  3.2 Get knife
+    3.2.1 Open drawer
+    3.2.2 Pick up knife
+    3.2.3 Place knife on counter
+    3.2.4 Close drawer
+4 Assemble sandwich
+  4.1 Place one piece of bread on plate
+  4.2 Apply mustard
+    4.2.1 Open lid
+    4.2.2 Hold bottle upside down
+    4.2.3 Position over bread
+    4.2.4 Squeeze quickly
+    4.2.5 Close lid
+    4.2.6 Use knife to spread evenly over bread
+  4.3 Apply mayonnaise
+    4.3.1 Open lid
+    4.3.2 Hold bottle upside down
+    4.3.3 Position over bread
+    4.3.4 Squeeze quickly
+    4.3.5 Close lid
+    4.3.6 Use knife to spread evenly over bread
+  4.4 Place slices of turkey on top of bread
+  4.5 Place slices of cheese on top of bread
+  4.6 Place slices of tomato on top of bread
+  4.7 Place spinach leaves on top of bread
+  4.8 Sprinkle banana pepper rings on top of spinach leaves
+  4.9 Place second piece of bread on top
