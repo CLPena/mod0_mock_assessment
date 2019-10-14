@@ -1,0 +1,17 @@
+Class: Plant
+
+Attributes:
+species (string)
+currentHeight (float)
+healthy (boolean)
+sunlightRequirements (string)
+waterRequirements (string)
+numberLeaves (integer)
+flowers (array) Could be ["pink1", "pink2", "red1", "white1", "white2"] for a plant that produces pink, red, and white flowers, or ["Null"] for a plant that does not produce flowers or is not in bloom currently.
+
+Methods:
+careInfo (prints out the strings from the sunlightRequirements, and waterRequirements attributes)
+leavesFall (changes the numberLeaves integer to 0)
+bloom (adds a flower item into the flowers array, following the format of ColorNumber)
+grow (changes the currentHeight float and the healthy boolean to true)
+wilt (changes the healthy boolean to false)
