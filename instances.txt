@@ -1,0 +1,19 @@
+Daffodil
+Attributes:
+species: "Narcissus"
+currentHeight: 7.9
+healthy: true
+sunlightRequirements: "Plant in full sun."
+waterRequirements: "Water once daily."
+numberLeaves: 4
+flowerColors: ["yellow1", "yellow2"]
+
+Iris
+Attributes:
+species: "Iris germanica"
+currentHeight: 15
+healthy: true
+sunlightRequirements: "At least six hours daily"
+waterRequirements: "Only when soil is dry. Do not over-water."
+numberLeaves: 6
+flowerColors: ["purple1", "white1", "white2"]
